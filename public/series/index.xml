@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on ML</title>
-    <link>http://localhost/series/</link>
+    <link>https://shamik-07.github.io/another_site/series/</link>
     <description>Recent content in Series on ML</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://shamik-07.github.io/another_site/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo 101</title>
-      <link>http://localhost/series/hugo-101/</link>
+      <link>https://shamik-07.github.io/another_site/series/hugo-101/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost/series/hugo-101/</guid>
+      <guid>https://shamik-07.github.io/another_site/series/hugo-101/</guid>
       <description></description>
     </item>
   </channel>

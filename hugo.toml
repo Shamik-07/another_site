@@ -1,4 +1,4 @@
-baseurl      = "http://localhost"
+baseurl      = "https://shamik-07.github.io/another_site/"
 title        = "My Blog"
 languageCode = "en-uk"
 theme        = "hello-friend-ng"
@@ -67,7 +67,7 @@ enableEmoji = true
 
     [languages.en.params.logo]
       logoText = "This is swell"
-      logoHomeLink = "/another_site"
+      logoHomeLink = "https://shamik-07.github.io/another_site/"
     # or
     #
     # path = "/img/your-example-logo.svg"
